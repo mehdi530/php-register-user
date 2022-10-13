@@ -22,7 +22,7 @@ include 'BusinessLayer.php';
 $b=new BusinessLayer() ;
 
   
-echo($b->user_add("mza","mehditest@.com",'13'));
+echo($b->user_add("Name","Email@Email.com",'00989175334410'));
 
 
 ?>
